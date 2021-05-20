@@ -1,2 +1,2 @@
 # hallo-welt
-nur ein weiteres Reository
+nur ein weiteres Repository
